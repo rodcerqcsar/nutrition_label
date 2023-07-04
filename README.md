@@ -1,4 +1,4 @@
-<h1 align="center"> CSS Typography Nutrition Label Webpage </h1>
+<h1 align="center"> Typography Nutrition Label Webpage </h1>
 
 <br>
 
@@ -7,14 +7,14 @@
   <img alt="Preview App" src="nutrition_label.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 
 - HTML
 - CSS 
 
-## 💻 Projeto
+## 💻 Project
 
 Typography is the art of styling your text to be easily readable and suit its purpose.
 
@@ -22,5 +22,5 @@ Typography is the art of styling your text to be easily readable and suit its pu
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/nutrition_label)
+- [Access the finished project, online](https://rodrigocccesar.github.io/nutrition_label)
 
